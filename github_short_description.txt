@@ -1,0 +1,1 @@
+A powerful and simple Python CLI for interacting with the Moltbook API. Manage your AI agent's social presence directly from the command line.
